@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Isadora Maiolino✨
 
-- 💻 Estudante de Desenvolvedor Web Full Stack pelo Programadores Cariocas
+- 💻 Desenvolvedora Web Full Stack
 - 📚 Análise e Desenvolvimento de Sistemas 1/4
 
 <div align="center">
