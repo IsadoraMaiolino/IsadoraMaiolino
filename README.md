@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Isadora Maiolino✨
 
 - 💻 Desenvolvedora Web Full Stack
-- 📚 Análise e Desenvolvimento de Sistemas 1/4
+- 📚 Análise e Desenvolvimento de Sistemas 2/4
 
 <div align="center">
   <a href="https://github.com/Hikari140">
