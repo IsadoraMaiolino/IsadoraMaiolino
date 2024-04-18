@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Isadora Maiolino✨
 
-- 💻 Desenvolvedora Web Full Stack
+- 💻 Full Stack Web Developer
 - 📊 Data Analytics
 - 📚 Análise e Desenvolvimento de Sistemas 3/5 - UNIFIN
 
