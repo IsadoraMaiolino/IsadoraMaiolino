@@ -2,7 +2,7 @@
 
 - 💻 Full Stack Web Developer
 - 📊 Data Analyst
-- 📚 Análise e Desenvolvimento de Sistemas 3/5 - UNIFIN
+- 📚 Análise e Desenvolvimento de Sistemas 4/5 - UNIFIN
 
 <div align="center">
   <a href="https://github.com/Hikari140">
