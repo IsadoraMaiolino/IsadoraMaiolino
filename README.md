@@ -5,9 +5,9 @@
 - 📚 Análise e Desenvolvimento de Sistemas 4/5 - UNIFIN
 
 <div align="center">
-  <a href="https://github.com/Hikari140">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hikari140&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hikari140&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/IsadoraMaiolino">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsadoraMaiolino&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraMaiolino&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ##
@@ -25,7 +25,6 @@ Skills
   <img align="center" alt="Isadora-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Isadora-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Isadora-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Isadora-JQuery" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
   <img align="center" alt="Isadora-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align="center" alt="Isadora-NumPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Isadora-PowerBI" height="40" width="50" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
